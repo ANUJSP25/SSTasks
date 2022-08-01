@@ -1,1 +1,1 @@
-
+This NLP Model creates a python dictionary in which the organ name is the dictionary keys and the respective organ information is the dictionary value by using the extraction method from the given website.
